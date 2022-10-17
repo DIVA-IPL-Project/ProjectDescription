@@ -1,1 +1,1 @@
-# readMe
+Epidemiological studies, as of SARS-CoV-2 or E. coli strains, pose challenges to computer engineering given the volume of data and the heterogeneity of tools and systems. This project aims to develop an integrated, scalable and innovative solution in terms of data integration and visualization, in accordance with the needs of the industry.
